@@ -1,0 +1,2 @@
+# mnbin
+masternode coin binaries
